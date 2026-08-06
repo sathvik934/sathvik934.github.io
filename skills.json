@@ -1,70 +1,8 @@
-[
-    {
-        "name": "Java",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-    },
-    {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-    },
-    {
-        "name": "SQL",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    },
-    {
-        "name": "Microsoft Azure",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
-    },
-    {
-        "name": "Azure Data Factory",
-        "icon": "./assets/images/Data_factory.jpg"
-    },
-    {
-        "name": "Azure Databricks",
-        "icon": "./assets/images/Data_bricks.jpg"
-    },
-    {
-        "name": "Azure Synapse Analytics",
-        "icon": "./assets/images/Synapse_analytics.jpg"
-    },
-    {
-        "name": "Data Modeling",
-        "icon": "./assets/images/Data_Modeling.png"
-    },
-    {
-        "name": "Git",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    },
-    {
-        "name": "REST APIs",
-        "icon": "./assets/images/Rest_api.png"
-    },
-    {
-        "name": "IntelliJ IDEA",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"
-    },
-    {
-        "name": "VS Code",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
-    },
-    {
-        "name": "Microsoft SQL Server",
-        "icon": "./assets/images/MicrosoftSqlServer.png"
-    },
-    {
-        "name": "PostgreSQL",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
-    },
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-    },
-    {
-        "name": "ETL",
-        "icon": "https://img.icons8.com/external-outline-black-m-oki-orlando/48/FFFFFF/external-etl-data-science-outline-outline-black-m-oki-orlando.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    }
-]
+{
+  "Programming": ["Java", "SQL", "Python"],
+  "Backend & Frameworks": ["Spring Boot", "Hibernate", "JPA", "REST APIs", "Microservices"],
+  "Databases": ["MySQL", "SQL Server", "Query Optimization"],
+  "AI-Assisted Development": ["GitHub Copilot", "GitHub Coding Agent", "Prompt Engineering"],
+  "DevOps & Tools": ["Git", "Maven", "Docker", "Kubernetes", "Postman"],
+  "Core Concepts": ["OOP", "Data Structures", "Debugging", "System Design", "Performance Optimization"]
+}

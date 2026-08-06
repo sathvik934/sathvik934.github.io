@@ -1,0 +1,26 @@
+[
+  {
+    "name": "E-Commerce Backend API",
+    "date": "Spring Boot, Hibernate, SQL",
+    "category": "Backend API",
+    "description": "Backend services for managing products and orders using REST APIs, with a 30% response-time improvement through query optimization.",
+    "image": "ecommerce-backend-api.jpg",
+    "alt": "Laptop and shopping cart representing an e-commerce backend API"
+  },
+  {
+    "name": "Microservices Order Management System",
+    "date": "Spring Boot, JPA, Docker",
+    "category": "Microservices",
+    "description": "A microservices-based order management system with REST communication, containerized with Docker for portable, scalable deployment.",
+    "image": "microservices-order-management.jpg",
+    "alt": "Server racks representing a containerized microservices architecture"
+  },
+  {
+    "name": "Employee Management System",
+    "date": "Java, Spring Boot, MySQL",
+    "category": "Enterprise System",
+    "description": "Backend APIs and business logic modules for enterprise operations, with optimized SQL queries and stored procedures.",
+    "image": "employee-management-system.jpg",
+    "alt": "Team in an office representing an enterprise employee management system"
+  }
+]
