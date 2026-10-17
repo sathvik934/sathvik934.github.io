@@ -1,6 +1,7 @@
 {
   "Programming": ["Java", "SQL", "Python"],
   "Backend & Frameworks": ["Spring Boot", "Hibernate", "JPA", "REST APIs", "Microservices"],
+  "Frontend": ["Angular", "HTML","CSS","JavaScript"],
   "Databases": ["MySQL", "SQL Server", "Query Optimization"],
   "AI-Assisted Development": ["GitHub Copilot", "GitHub Coding Agent", "Prompt Engineering"],
   "DevOps & Tools": ["Git", "Maven", "Docker", "Kubernetes", "Postman"],
